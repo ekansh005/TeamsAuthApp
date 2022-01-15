@@ -1,0 +1,9 @@
+{
+  "generator-teams": {
+    "promptValues": {
+      "developer": "Codeterian"
+    },
+    "libraryName": "learnMsTeamsAuthTab",
+    "generator-version": "3.5.0"
+  }
+}
